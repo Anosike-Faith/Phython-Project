@@ -8,5 +8,6 @@
 -Total Customers
 -Average Order Values
 
-LINKEDIN:[linkedin.com/in/ifechukwu-anosike-ba7294385]
+* LINKEDIN
+ (linkedin.com/in/ifechukwu-anosike-ba7294385)
 

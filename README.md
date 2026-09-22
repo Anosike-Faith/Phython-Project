@@ -7,6 +7,6 @@
 -Total Order
 -Total Customers
 -Average Order Values
-
-[LINKEDIN:](linkedin.com/in/ifechukwu-anosike-ba7294385)
+## Connect with me
+[LINKEDIN @ Anosike Ifechukwu](https://WWW.linkedin.com/in/ifechukwu-anosike-ba7294385)
 
